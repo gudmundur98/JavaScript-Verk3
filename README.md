@@ -5,8 +5,8 @@
    forritun (OOP) í öðrum málum eins og Python? (1%)
 
 2. Útskýrðu eins vel og þú getur hvað gerist í kóðanum(1%)
- a. Þegar prototype er sleppt
- b. Hvað gerir prototype í 
+ * a. Þegar prototype er sleppt
+ * b. Hvað gerir prototype í 
 ```javascript
 Book.prototype.getIsbn
 function Book(isbn) {
