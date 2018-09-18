@@ -18,15 +18,15 @@ Book.getIsbn = function () {
 };
 ```
 3. Classical Model (function constructor and prototype) (2%)
-   a) Búðu til þrjár geimflauga objecta með function smið sem hafa
+   * a. Búðu til þrjár geimflauga objecta með function smið sem hafa
       mismunandi heiti. Geimflaugarnar eiga einnig að hafa eigindin speed og
       life með upphafsgildinu 10.
       Spaceship-name generator:
       http://www.fantasynamegenerators.com/spaceshipnames.php#.WnQsPqhl-M8
-   b) Gefðu geimflaugunum mismunandi speed gildi.
-   c) Notaðu Prototype til að bæta við nýrri method fly sem hækkar gildið
+   * b. Gefðu geimflaugunum mismunandi speed gildi.
+   * c. Notaðu Prototype til að bæta við nýrri method fly sem hækkar gildið
       speed um 1. Þetta fá allar flaugarnar.
-   d) Búðu til undirhóp flauga (2 flaugar) af einni geimflauginni sem þú bjóst til
+   * d. Búðu til undirhóp flauga (2 flaugar) af einni geimflauginni sem þú bjóst til
       að ofan. Gefðu þessum flaugum einhver eigindi og gildi. Þessar flaugar
       eiga að auki að hafa aðferðina setLife() sem hækkar life um 1.
 
