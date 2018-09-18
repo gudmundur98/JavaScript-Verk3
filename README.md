@@ -8,6 +8,7 @@
 
 2. Útskýrðu eins vel og þú getur hvað gerist í kóðanum(1%)
  * a. Þegar prototype er sleppt
+ 
  * b. Hvað gerir prototype í 
 ```javascript
 Book.prototype.getIsbn
