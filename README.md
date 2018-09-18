@@ -3,8 +3,8 @@
 
 1. Útskýrðu Prototype kerfið í JavaScript. Hver er munurinn á því t.d. og ObjectOriented
    forritun (OOP) í öðrum málum eins og Python? (1%)
-   *Prototype i JS gerir manni kleift að gera fleira og gera hluti á auðvedari hátt. 
-   *Munurinn á Prototype og OOP er að í öðrum málum en JS þá þarf maður alltaf að nota base class til þess að gera inheritance en í JS getur maður notað Inheritance með prototype á hvað sem er einsog t.d. Object.
+   * *Prototype i JS gerir manni kleift að gera fleira og gera hluti á auðvedari hátt.*
+   * *Munurinn á Prototype og OOP er að í öðrum málum en JS þá þarf maður alltaf að nota base class til þess að gera inheritance en í JS getur maður notað Inheritance með prototype á hvað sem er einsog t.d. Object.*
 
 2. Útskýrðu eins vel og þú getur hvað gerist í kóðanum(1%)
  * a. Þegar prototype er sleppt
